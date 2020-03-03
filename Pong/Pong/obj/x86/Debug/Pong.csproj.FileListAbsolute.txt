@@ -1,0 +1,10 @@
+c:\work\Kaapo_p\Pong\Pong\Pong\bin\x86\Debug\Pong.exe
+c:\work\Kaapo_p\Pong\Pong\Pong\bin\x86\Debug\Pong.pdb
+c:\work\Kaapo_p\Pong\Pong\Pong\bin\x86\Debug\Jypeli.dll
+c:\work\Kaapo_p\Pong\Pong\Pong\bin\x86\Debug\Jypeli.xml
+c:\work\Kaapo_p\Pong\Pong\Pong\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\work\Kaapo_p\Pong\Pong\Pong\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\work\Kaapo_p\Pong\Pong\Pong\obj\x86\Debug\Pong.exe
+c:\work\Kaapo_p\Pong\Pong\Pong\obj\x86\Debug\Pong.pdb
+c:\work\Kaapo_p\Pong\Pong\Pong\bin\x86\Debug\Content\creeper.xnb
+c:\work\Kaapo_p\Pong\Pong\Pong\bin\x86\Debug\Content\nyan.xnb
